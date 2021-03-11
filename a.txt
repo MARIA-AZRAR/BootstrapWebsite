@@ -1,0 +1,77 @@
+<footer>
+<div class="container-fluid padding">
+<div class="row text-center">
+	<div class="col-md-4">
+		<img src="img/w3newbie.png">
+		<hr class="light">
+		<p>555 555 555</p>
+		<p>MAris@gmail.com</p>
+		<p>100 street us</p>
+		<p>city, state, 04809</p>
+	</div>
+	<div class="col-md-4">
+		<hr class="light">
+		<h5>Our Hours</h5>
+		<hr class="light">
+		<p>Monday: 9am to 5pm</p>
+		<p>Saturday: 10am to 9pm</p>
+		<p>Sunday: closed</p>
+	</div>
+		<div class="col-md-4">
+		<hr class="light">
+		<h5>Service Area</h5>
+		<hr class="light">
+		<p>100 street us</p>
+		<p>city, state, 04809</p>
+	</div>
+	<div class="col-12">
+		<hr class="light-100">
+		<h5>&copy; w3newbie.com</h5>
+	</div>
+</div>	
+</div>	
+
+</footer>
+
+
+
+
+
+<div className="mainFooter">
+          <div className="container">
+            <div className="row">
+              <div className="col">
+                <h4>ABOUT</h4>
+                <ul className="list-unstyled">
+                  <p className="about">
+                    Blood Bank Management System enables different blood banks to manage their stocks
+                    and donor and recievers to donate and recieve blood.
+            </p>
+                </ul>
+              </div>
+              <div className="col">
+                <h4>CONTACT</h4>
+                <ul className="list-unstyled">
+                  <li><img src="../../images/home.png" alt="logo" height="25px" width="25px" /> Lahore</li>
+                  <li><img className="call" src="../../images/call.png" alt="logo" height="25px" width="25px" /> 123-456789-09</li>
+                </ul>
+              </div>
+              <div className="col">
+                <h4>FOLLOW US</h4>
+                <ul className="list-unstyled">
+                  <li><img src="../../images/insta.png" alt="logo" height="25px" width="25px" /> www.insta.com</li>
+                  <li><img className="call" src="../../images/twitter.png" alt="logo" height="25px" width="25px" /> www.twitter.com</li>
+                </ul>
+              </div>
+            </div>
+
+            <div class="hl">
+            </div>
+            <div className="row">
+              <p className="col-sm">
+                &copy;{new Date().getFullYear()} Blood Bank System | All Rights Reserved | Terms Of Service | Privacy
+        </p>
+            </div>
+
+          </div>
+        </div>
