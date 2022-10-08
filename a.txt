@@ -44,8 +44,7 @@
                 <h4>ABOUT</h4>
                 <ul className="list-unstyled">
                   <p className="about">
-                    Blood Bank Management System enables different blood banks to manage their stocks
-                    and donor and recievers to donate and recieve blood.
+                    Blood Bank Management System.
             </p>
                 </ul>
               </div>
